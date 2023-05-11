@@ -5,8 +5,10 @@
 <h3> Now, explain about extension </h3>
 
 * Auto Rename Tag
+<img src="https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.10/1644319230173/Microsoft.VisualStudio.Services.Icons.Default" width="200" height="200">
 
 * color highlight
+<img src="https://uploads-ssl.webflow.com/5eb8fbee91fb65499c7f5f42/5efb66190e13b94325f2b654_Highlight%20picture.svg" width="200" height="200">
 
 * material thema 3종 시리즈
 1. Community Material Theme
@@ -18,6 +20,7 @@
 * korean language pack
 
 * prettier
+<img src="https://unpkg.com/prettier-logo@1.0.3/images/prettier-banner-light.svg" width="200" height="200">
 
 * sort lines
 
